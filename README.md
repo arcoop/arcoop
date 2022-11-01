@@ -4,11 +4,13 @@
 
 💬 Ask me about my projects:
 <details>
-  <summary>Sparkle: Full-stack clone of the games quiz app [Sporcle](https://www.sporcle.com/)</summary>
+  <summary>Sparkle: Full-stack clone of the games quiz app Sporcle</summary>
   
   - [Live Link](https://sparkle-sporcle.herokuapp.com/)
   
   - [GitHub](https://github.com/arcoop/Sparkle)
+  
+  - [Cloned Site](https://www.sporcle.com/)
   
 </details>
 
