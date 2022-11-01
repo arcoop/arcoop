@@ -32,7 +32,6 @@
 </details>
 
 ***
-Contact me:
 cooperadina@email.com
 
 <!--
