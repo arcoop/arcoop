@@ -31,9 +31,9 @@
   - [GitHub](https://github.com/arcoop/Bang)
 </details>
 
-cooperadina@gmail.com
-New York, Ny
-
+***
+Contact me:
+cooperadina@email.com
 
 <!--
 **arcoop/arcoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
