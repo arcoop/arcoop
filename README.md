@@ -31,7 +31,8 @@
   - [GitHub](https://github.com/arcoop/Bang)
 </details>
 
-
+cooperadina@gmail.com
+New York, Ny
 
 
 <!--
