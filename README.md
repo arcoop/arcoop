@@ -4,7 +4,7 @@
 
 💬 Ask me about my projects:
 <details>
-  <summary>Sparkle: Full-stack clone of the games quiz app Sporcle</summary>
+  <summary>Sparkle: Full-stack clone of the games quiz app [Sporcle](https://www.sporcle.com/)</summary>
   
   - [Live Link](https://sparkle-sporcle.herokuapp.com/)
   
@@ -13,7 +13,7 @@
 </details>
 
 <details>
-  <summary>Cubberd</summary>
+  <summary>Cubberd: MERNstack up in which users can input ingredeients and receive a list of scored recipes based on their input.</summary>
   
    - [Live Link](https://cubberd.herokuapp.com/login)
   
@@ -22,7 +22,7 @@
 
 
 <details>
-  <summary>Bang</summary>
+  <summary>Bang: Vanilla Javascript project based on the tabletop card game Hanabi. Built entirely on Canvas.</summary>
   
   - [Live Link](https://arcoop.github.io/Bang/)
   
