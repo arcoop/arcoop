@@ -33,6 +33,7 @@
 
 ***
 cooperadina@email.com
+New York, NY
 
 <!--
 **arcoop/arcoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
