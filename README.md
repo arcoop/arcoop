@@ -19,7 +19,7 @@
   
    - [Live Link](https://cubberd.herokuapp.com/login)
   
-  - [GitHub](https://github.com/Monkwire3/Cubberd)
+  - [GitHub](https://github.com/arcoop/Cubberd)
 </details>
 
 
