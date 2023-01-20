@@ -32,7 +32,7 @@
 </details>
 
 ***
-cooperadina@email.com
+cooperadina@gmail.com
 
 New York, NY
 
