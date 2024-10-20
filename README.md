@@ -42,8 +42,6 @@ New York, NY
 
 <div align="center">
   
-  
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=arcoop&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arcoop&langs_count=5&theme=tokyonight)]()
   
 </div>
